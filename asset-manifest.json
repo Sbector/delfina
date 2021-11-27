@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/delfina/static/css/main.3b36d681.chunk.css",
+    "main.js": "/delfina/static/js/main.8b9bb581.chunk.js",
+    "main.js.map": "/delfina/static/js/main.8b9bb581.chunk.js.map",
+    "runtime-main.js": "/delfina/static/js/runtime-main.f0f4a78f.js",
+    "runtime-main.js.map": "/delfina/static/js/runtime-main.f0f4a78f.js.map",
+    "static/js/2.e507505e.chunk.js": "/delfina/static/js/2.e507505e.chunk.js",
+    "static/js/2.e507505e.chunk.js.map": "/delfina/static/js/2.e507505e.chunk.js.map",
+    "index.html": "/delfina/index.html",
+    "static/css/main.3b36d681.chunk.css.map": "/delfina/static/css/main.3b36d681.chunk.css.map",
+    "static/js/2.e507505e.chunk.js.LICENSE.txt": "/delfina/static/js/2.e507505e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0f4a78f.js",
+    "static/js/2.e507505e.chunk.js",
+    "static/css/main.3b36d681.chunk.css",
+    "static/js/main.8b9bb581.chunk.js"
+  ]
+}
