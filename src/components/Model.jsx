@@ -12,7 +12,7 @@ const Model = () => {
     const { clientWidth: width, clientHeight: height } = currentRef;
 
     const scene = new THREE.Scene();
-    scene.background = new THREE.Color(0xfaffff);
+    scene.background = new THREE.Color(0xeafffa);
     const camera = new THREE.PerspectiveCamera(25, width / height, 0.01, 1000);
     camera.position.set(10,10,10);
     scene.add(camera);
@@ -32,7 +32,7 @@ const Model = () => {
     const cube = new THREE.Mesh(geometry, material);
     scene.add(cube);
 
-    const light = new THREE.PointLight(0xff0000,1,40);
+    const light = new THREE.PointLight(0xff0000,1,50);
     light.position.set(0,0,0);
     scene.add(light);
 
