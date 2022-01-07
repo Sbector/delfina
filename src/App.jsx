@@ -1,13 +1,11 @@
-import Model from "./components/Model";
-
-
+import Scene from "./components/Scene"
 
 function App() {
   return (
     <>
-      <Model/>
+      <Scene/>
     </>
-  );
+  )
 }
 
-export default App;
+export default App
